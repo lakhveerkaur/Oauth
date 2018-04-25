@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: boot-client-oauth-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LA354338
+Implementation-Vendor-Id: com.wipro
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/boot-client-
+ oauth-application/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
